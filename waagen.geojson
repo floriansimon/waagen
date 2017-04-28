@@ -853,49 +853,47 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "detail": "Burggasse",
+        "osmid": null,
+        "public": 1
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           16.346830129623413,
           48.20424588693698
         ]
-      },
-      "properties": {
-        "detail": "Burggasse",
-        "osmid": null,
-        "public": 1
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "detail": "Haltestelle Alserstraße",
+        "osmid": null,
+        "public": 1
+      }
       "geometry": {
         "type": "Point",
         "coordinates": [
           16.341986060142517,
           48.21725282745868
         ]
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
-        "detail": "Haltestelle Alserstraße",
+        "detail": "Haltestelle Wattgasse",
         "osmid": null,
         "public": 1
-      }},
-      {
-      "type": "Feature",
-      "properties": {},
+      }
       "geometry": {
         "type": "Point",
         "coordinates": [
           16.321567744016647,
           48.221410526439946
         ]
-      },
-      "properties": {
-        "detail": "Haltestelle Wattgasse",
-        "osmid": null,
-        "public": 1
       }
     }
   ]

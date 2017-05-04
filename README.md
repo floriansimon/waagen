@@ -1,4 +1,4 @@
-# wienerwaagen.at
+# waagen
 GeoJSON of public* scales in Vienna or elsewhere in Austria.  
 https://symptomatis.ch/mikro/waagen/  
 

@@ -15,9 +15,9 @@ https://symptomatis.ch/mikro/waagen/
   <dt>detail</dt>
   <dd>name of closest landmark</dd>
   <dt>osmid</dt>
-  <dd>ID of corresponding openstreetmap node</dd>
+  <dd>ID of corresponding openstreetmap node<br><em>null</em> if not provided</dd>
   <dt>public</dt>
-  <dd>1 if publically available, else 0</dd>
+  <dd>1 if publically available, else 0<br><em>null</em> if currently unknown</dd>
 </dl>
 
 ### example

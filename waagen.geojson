@@ -899,6 +899,36 @@
           48.221410526439946
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Gumpendorfer Straße U (57A FR Burgring)",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33745,
+          48.1903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Hietzing U (60 FR Rodaun)",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3040333,
+          48.18755
+        ]
+      }
     }
   ]
 }

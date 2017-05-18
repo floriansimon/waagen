@@ -295,7 +295,7 @@
         ]
       },
       "properties": {
-        "detail": "Haltestelle Breitensee S (GOLD ODER BRONZE?????)",
+        "detail": "Haltestelle Breitensee S",
         "osmid": null
       }
     },
@@ -927,6 +927,21 @@
         "coordinates": [
           16.3040333,
           48.18755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Burgring",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.363182216882706,
+          48.20415024857733
         ]
       }
     }

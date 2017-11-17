@@ -933,6 +933,126 @@
     {
       "type": "Feature",
       "properties": {
+        "detail": "Haltestelle Friedrich-Engels-Platz (2, 5, 31, 33)",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3794833333,
+          48.2441833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Schloss Belvedere (D Fahrtrichtung Beethovengang)",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3794,
+          48.1916666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Columbusplatz",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3748166667,
+          48.1820333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Kagran, vor Donauzentrum",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4338666667,
+          48.2432166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Max-Winter-Platz",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4003166667,
+          48.2209333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Hoßplatz (25, 26, N20 Fahrtrichtung Floridsdorf)",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.408,
+          48.2550166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Lassallestraße (11A, 11B Fahrtrichtung Friedrich-Engels-Platz)",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40245,
+          48.2237333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Quartier Belvedere (O, 18 Fahrtichtung Hauptbahnhof)",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3799166667,
+          48.18775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "detail": "Haltestelle Burgring",
         "osmid": null,
         "public": 1

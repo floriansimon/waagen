@@ -1064,6 +1064,36 @@
           48.20415024857733
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Innsbruck Hafelekar",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38361,
+          47.3119444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Salzburg neben Universitätskirche",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04346039891243,
+          47.79913341403821
+        ]
+      }
     }
   ]
 }

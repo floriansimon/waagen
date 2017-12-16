@@ -1093,6 +1093,34 @@
           13.04346039891243,
           47.79913341403821
         ]
+      },
+{
+      "type": "Feature",
+      "properties": {
+        "detail": "Lerchenfelder Gürtel, Ecke Herbststraße",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         	16.336541175842285, 
+48.205438223083576
+        ]
+      },
+{
+      "type": "Feature",
+      "properties": {
+        "detail": "48A Haltestelle Thaliastraße Koppstraße FR Baumgartner Höhe",
+        "osmid": null,
+        "public": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          	16.336967647075653,
+          	48.20621403109773
+        ]
       }
     }
   ]

@@ -1123,6 +1123,21 @@
 					48.20621403109773
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"detail": "Kurpark Baden",
+				"osmid": null,
+				"public": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.233866,
+					48.010025
+				]
+			}
 		}
 	]
 }

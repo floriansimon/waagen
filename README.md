@@ -20,6 +20,10 @@ https://symptomatis.ch/mikro/waagen/
   <dd>ID of corresponding openstreetmap node<br><em>null</em> if not provided</dd>
   <dt>public</dt>
   <dd>1 if publically available, else 0<br><em>null</em> if currently unknown</dd>
+  <dt>missing</dt>
+  <dd>1 if previously available but now missing, else 0<br><em>null</em> if currently unknown</dd>
+  <dt>color</dt>
+  <dd>Color when last seen</dd>
 </dl>
 
 ### example

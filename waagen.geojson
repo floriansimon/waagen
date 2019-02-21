@@ -12,7 +12,8 @@
 			"properties": {
 				"detail": "Haltestelle Dr.-Karl-Renner-Ring (D, 1, 2, 71, N25, N38, N60, N66)",
 				"osmid": 4314602412,
-				"public": 1
+				"public": 1,
+				"color": "grün"
 			}
 		},
 		{
@@ -27,7 +28,8 @@
 			"properties": {
 				"detail": "Haltestelle Dr.-Karl-Renner-Ring (46, 48A, 49, N46)",
 				"osmid": null,
-				"public": ""
+				"public": "",
+				"color": "gold"
 			}
 		},
 		{
@@ -41,7 +43,8 @@
 			},
 			"properties": {
 				"detail": "Resselpark",
-				"osmid": null
+				"osmid": null,
+				"color": "bronze"
 			}
 		},
 		{
@@ -55,7 +58,8 @@
 			},
 			"properties": {
 				"detail": "Haltestelle Otto-Wagner-Spital (48A FR Dr.-Karl-Renner-Ring)",
-				"osmid": null
+				"osmid": null,
+				"color": "bronze"
 			}
 		},
 		{
@@ -69,7 +73,8 @@
 			},
 			"properties": {
 				"detail": "Haltestelle Währinger Straße, Volksoper U (40, 41, N41 FR Schottentor U)",
-				"osmid": null
+				"osmid": null,
+				"color": "silber"
 			}
 		},
 		{
@@ -84,7 +89,8 @@
 			"properties": {
 				"detail": "Haltestelle Gersthof S (40, 41, N41 FR Schottentor U)",
 				"osmid": null,
-				"missing" : 1
+				"missing": 1,
+				"color": "rot"
 			}
 		},
 		{
@@ -98,7 +104,8 @@
 			},
 			"properties": {
 				"detail": "Reithofferplatz im Zuge der Märzstraße",
-				"osmid": null
+				"osmid": null,
+				"color": "rot"
 			}
 		},
 		{
@@ -112,7 +119,8 @@
 			},
 			"properties": {
 				"detail": "Haltestelle Franz-Josefs-Bahnhof S",
-				"osmid": 3874461602
+				"osmid": 3874461602,
+				"color": "silber"
 			}
 		},
 		{
@@ -407,7 +415,7 @@
 				]
 			},
 			"properties": {
-				"detail": "Haltestelle Am Tabor",
+				"detail": "Haltestelle Am Tabor (2, N29, Fahrtrichtung stadtauswärts)",
 				"osmid": null
 			}
 		},

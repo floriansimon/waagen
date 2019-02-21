@@ -1007,9 +1007,9 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"detail": "Haltestelle Hoßplatz (25, 26, N20 Fahrtrichtung Floridsdorf)",
+				"detail": "Seit Umbau nicht mehr vorhanden. Haltestelle Hoßplatz (25, 26, N20 Fahrtrichtung Floridsdorf)",
 				"osmid": null,
-				"public": 1
+				"public": 0
 			},
 			"geometry": {
 				"type": "Point",
@@ -1136,6 +1136,66 @@
 				"coordinates": [
 					16.233866,
 					48.010025
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"detail": "Kurpark Puchberg am Schneeberg",
+				"osmid": null,
+				"public": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.91070,
+					47.78982
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"detail": "Simmeringer Hauptstraße 61",
+				"osmid": null,
+				"public": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.41210,
+					48.17847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"detail": "Haltestelle Knöllgasse (1, 6 FR stadtauswärts)",
+				"osmid": null,
+				"public": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.35828,
+					48.17777
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"detail": "Reumannplatz, ca. Höhe Buchengasse",
+				"osmid": null,
+				"public": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.378028,
+					48.174618
 				]
 			}
 		}

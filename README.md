@@ -8,7 +8,9 @@ https://symptomatis.ch/mikro/waagen/
 "properties": {
   "detail": "",
   "osmid": ,
-  "public": 
+  "public": ,
+  "missing": ,
+  "color": 
 }
 ```
 <dl>
@@ -25,6 +27,8 @@ https://symptomatis.ch/mikro/waagen/
 "properties": {
   "detail": "Haltestelle Dr.-Karl-Renner-Ring (D, 1, 2, 71, N25, N38, N60, N66)",
   "osmid": 4314602412,
-  "public": 1
+  "public": 1,
+  "missing": 0,
+  "color": "grün"
 }
 ```

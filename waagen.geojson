@@ -1121,8 +1121,8 @@
       "type": "Feature",
       "properties": {
         "detail": "Haltestelle Wattgasse",
-        "comment": null,
-        "color": null,
+        "comment": "Stadteinwärts",
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -1140,7 +1140,7 @@
       "properties": {
         "detail": "Haltestelle Gumpendorfer Straße U (57A FR Burgring)",
         "comment": null,
-        "color": null,
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -1158,7 +1158,7 @@
       "properties": {
         "detail": "Haltestelle Hietzing U (60 FR Rodaun)",
         "comment": null,
-        "color": null,
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -1176,7 +1176,7 @@
       "properties": {
         "detail": "Haltestelle Friedrich-Engels-Platz (2, 5, 31, 33)",
         "comment": null,
-        "color": null,
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -1194,7 +1194,7 @@
       "properties": {
         "detail": "Haltestelle Schloss Belvedere (D Fahrtrichtung Beethovengang)",
         "comment": null,
-        "color": null,
+        "color": "silver",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -1392,7 +1392,7 @@
       "properties": {
         "detail": "Haltestelle Thaliastraße U, Koppstraße (48A FR Baumgartner Höhe)",
         "comment": null,
-        "color": null,
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Public_Scale_Vienna_Haltestelle_Thaliastraße_Koppstraße.jpg/360px-Public_Scale_Vienna_Haltestelle_Thaliastraße_Koppstraße.jpg"
@@ -1464,7 +1464,7 @@
       "properties": {
         "detail": "Haltestelle Knöllgasse (1, 6 FR stadtauswärts)",
         "comment": null,
-        "color": null,
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": null

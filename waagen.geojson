@@ -8,7 +8,8 @@
         "comment": "",
         "color": "green",
         "status": "public",
-        "osmid": 4314602412
+        "osmid": 4314602412,
+        "imgURL": null
       },
       "geometry": {
         "type": "Point",
@@ -133,7 +134,8 @@
         "comment": null,
         "color": "silver",
         "status": "public",
-        "osmid": 3874461602
+        "osmid": 3874461602,
+        "imgURL": null
       },
       "geometry": {
         "type": "Point",
@@ -168,7 +170,8 @@
         "comment": null,
         "color": "red",
         "status": "public",
-        "osmid": 3892282289
+        "osmid": 3892282289,
+        "imgURL": null
       },
       "geometry": {
         "type": "Point",

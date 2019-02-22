@@ -1337,9 +1337,9 @@
       "type": "Feature",
       "properties": {
         "detail": "Innsbruck Hafelekar",
-        "comment": null,
+        "comment": "Innerhalb der Bergstation Hafelekar",
         "color": "gold",
-        "status": "public",
+        "status": "private",
         "osmid": null,
         "imgURL": null
       },
@@ -1354,7 +1354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "detail": "Salzburg neben Universitätskirche",
+        "detail": "Salzburg neben Kollegienkirche",
         "comment": null,
         "color": "gold",
         "status": "public",

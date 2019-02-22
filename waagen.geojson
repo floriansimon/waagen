@@ -1,1213 +1,1496 @@
 {
-	"type": "FeatureCollection",
-	"features": [{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.360078,
-					48.206868
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Dr.-Karl-Renner-Ring (D, 1, 2, 71, N25, N38, N60, N66)",
-				"osmid": 4314602412,
-				"public": 1,
-				"color": "grün"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.359607,
-					48.206897
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Dr.-Karl-Renner-Ring (46, 48A, 49, N46)",
-				"osmid": null,
-				"public": "",
-				"color": "gold"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.368744,
-					48.199641
-				]
-			},
-			"properties": {
-				"detail": "Resselpark",
-				"osmid": null,
-				"color": "bronze"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.280509,
-					48.206854
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Otto-Wagner-Spital (48A FR Dr.-Karl-Renner-Ring)",
-				"osmid": null,
-				"color": "bronze"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.349259,
-					48.224830
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Währinger Straße, Volksoper U (40, 41, N41 FR Schottentor U)",
-				"osmid": null,
-				"color": "silber"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.329073,
-					48.231480
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Gersthof S (40, 41, N41 FR Schottentor U)",
-				"osmid": null,
-				"missing": 1,
-				"color": "rot"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.330440,
-					48.198748
-				]
-			},
-			"properties": {
-				"detail": "Reithofferplatz im Zuge der Märzstraße",
-				"osmid": null,
-				"color": "rot"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.361030,
-					48.225732
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Franz-Josefs-Bahnhof S",
-				"osmid": 3874461602,
-				"color": "silber"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.377155,
-					48.222971
-				]
-			},
-			"properties": {
-				"detail": "Augarten",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.367633,
-					48.198662
-				]
-			},
-			"properties": {
-				"detail": "vor dem Freihaus",
-				"osmid": 3892282289
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.339378,
-					48.227221
-				]
-			},
-			"properties": {
-				"detail": "Währinger Straße, Altstoffsammelstelle vor Schubertpark",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.361378,
-					48.213478
-				]
-			},
-			"properties": {
-				"detail": "vor der Uni Wien, Universitätsring",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.361781,
-					48.213496
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Schottentor U (D, 1, 71, N25, N38, N60, N66)",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.360503,
-					48.208583
-				]
-			},
-			"properties": {
-				"detail": "Ring, Innenseite, Höhe Stadiongasse",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.338757,
-					48.197092
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Westbahnhof S U (6, 18 FR Burggasse-Stadthalle U)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.369797,
-					48.200275
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Karlsplatz U (Haltestelle von äußerem Schleifengleis)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.342190,
-					48.188343
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Margaretengürtel U (6, 18 FR Ustrab)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.379838,
-					48.206732
-				]
-			},
-			"properties": {
-				"detail": "Parkring, Haltestelle Stubentor U",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.380371,
-					48.206927
-				]
-			},
-			"properties": {
-				"detail": "Parkring, Außenseite, Haltestelle Stubentor U (2)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.380934,
-					48.216544
-				]
-			},
-			"properties": {
-				"detail": "Taborstraße/Glockengasse",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.306555,
-					48.198759
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Breitensee S",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.365867,
-					48.227707
-				]
-			},
-			"properties": {
-				"detail": "Friedensbrücke",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.361354,
-					48.244765
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Gunoldstraße",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.380543,
-					48.219331
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Taborstraße U (5B FR Bahnhof Heiligenstadt S U)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.385292,
-					48.205503
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Landstraße-Wien Mitte S U (O FR Praterstern S U)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.353878,
-					48.192756
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Pilgramgasse U (12A, 14A, N60, L)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.364373,
-					48.203765
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Burgring (D, 1, 2, 71, N25, N38, N60, N66)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.357205,
-					48.204854
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Volkstheater (49, N49 FR Hütteldorf)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.377467,
-					48.217350
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Am Tabor (2, N29, Fahrtrichtung stadtauswärts)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.370346,
-					48.202108
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Wien Oper (515)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.356589,
-					48.205527
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Volkstheater (48A FR Baumgartner Höhe)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.330099,
-					48.172718
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Schedifkaplatz (515)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.337590,
-					48.201278
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Urban-Loritz-Platz (49 FR Hütteldorf)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.355767,
-					48.207248
-				]
-			},
-			"properties": {
-				"detail": "Auerspergstraße / Schmerlingplatz ",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.37054,
-					48.232384
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Brigittaplatz (33, N31 FR Norden)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.374960,
-					48.201695
-				]
-			},
-			"properties": {
-				"detail": "Schubertring, Haltestelle Schwarzenbergplatz (71)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.377507,
-					48.217439
-				]
-			},
-			"properties": {
-				"detail": "Karmelitermarkt, seitlich vom Flakturm",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.352982,
-					48.231591
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Nußdorfer Straße U (35A, 37A, N35, ASTAX N36)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.368925,
-					48.232613
-				]
-			},
-			"properties": {
-				"detail": "Gerhardusgasse östliches Ende, vor Johann-Böhm-Wohnhausanlage",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.319844,
-					48.185783
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Schönbrunn (U4)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.377810,
-					48.211783
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Schwedenplatz U (1)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.356264,
-					48.207104
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Auerspergstraße (46, N46)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.342564,
-					48.207669
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Schottenfeldgasse (46, N46 stadteinwärts)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.327801,
-					48.210125
-				]
-			},
-			"properties": {
-				"detail": "Richard-Wagner-Platz bei WC-Zugang",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.325221,
-					48.210811
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Thaliastraße/Feßtgasse (9 FR Westbahnhof S U)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.334126,
-					48.225098
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Vinzenzgasse (9, 42)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.399647,
-					48.257356
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Floridsdorf S U (30, 31)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.338091,
-					48.198319
-				]
-			},
-			"properties": {
-				"detail": "Neubaugürtel Außenseite",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.345515,
-					48.184415
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Margaretengürtel, Arbeitergasse (6, 18 FR Ustrab)",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.379231,
-					48.173695
-				]
-			},
-			"properties": {
-				"detail": "Reumannplatz",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.831044,
-					47.859379
-				]
-			},
-			"properties": {
-				"detail": "Podersdorf Strandplatz",
-				"osmid": null
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					13.538112,
-					47.914030
-				]
-			},
-			"properties": {
-				"detail": "Attersee",
-				"osmid": null,
-				"public": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.318620,
-					48.190730
-				]
-			},
-			"properties": {
-				"detail": "Technisches Museum",
-				"osmid": null,
-				"public": 0
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.315050,
-					48.223525
-				]
-			},
-			"properties": {
-				"detail": "Hernals",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.345928,
-					48.215275
-				]
-			},
-			"properties": {
-				"detail": "Alser Straße Ecke Feldgasse vor kleiner Grünfläche",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.367973,
-					48.229069
-				]
-			},
-			"properties": {
-				"detail": "Klosterneuburger Straße",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.33724,
-					48.20409
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Burggasse",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.386488,
-					48.195479
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Rennweg",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.385677,
-					48.206058
-				]
-			},
-			"properties": {
-				"detail": "Haltestelle Landstraße - Wien Mitte",
-				"osmid": null,
-				"public": 1
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Praterstern",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.392851,
-					48.217755
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Burggasse",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.346830,
-					48.204246
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Alserstraße",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.341986,
-					48.217253
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Wattgasse",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.321568,
-					48.221411
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Gumpendorfer Straße U (57A FR Burgring)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.337450,
-					48.190300
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Hietzing U (60 FR Rodaun)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.304033,
-					48.187550
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Friedrich-Engels-Platz (2, 5, 31, 33)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.379483,
-					48.244183
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Schloss Belvedere (D Fahrtrichtung Beethovengang)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.379400,
-					48.191667
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Columbusplatz",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.374817,
-					48.182033
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Kagran, vor Donauzentrum",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.433867,
-					48.243217
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Max-Winter-Platz",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.400317,
-					48.220933
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Hoßplatz (25, 26, N20 Fahrtrichtung Floridsdorf)",
-				"osmid": null,
-				"missing": 1,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.408000,
-					48.255017
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Lassallestraße (11A, 11B Fahrtrichtung Friedrich-Engels-Platz)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.402450,
-					48.223733
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Quartier Belvedere (O, 18 Fahrtichtung Hauptbahnhof)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.379917,
-					48.187750
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Burgring",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.363182,
-					48.204150
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Innsbruck Hafelekar",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					11.383610,
-					47.311944
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Salzburg neben Universitätskirche",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					13.043460,
-					47.799133
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Lerchenfelder Gürtel, Ecke Herbststraße",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.336541,
-					48.205438
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Thaliastraße U, Koppstraße (48A FR Baumgartner Höhe)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.336968,
-					48.206214
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Kurpark Baden",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.233866,
-					48.010025
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Kurpark Puchberg am Schneeberg",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					15.910700,
-					47.789820
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Simmeringer Hauptstraße 61",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.412100,
-					48.178470
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Haltestelle Knöllgasse (1, 6 FR stadtauswärts)",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.358280,
-					48.177770
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"detail": "Reumannplatz, ca. Höhe Buchengasse",
-				"osmid": null,
-				"public": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					16.378028,
-					48.174618
-				]
-			}
-		}
-	]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Dr.-Karl-Renner-Ring (D, 1, 2, 71, N25, N38, N60, N66)",
+        "comment": "",
+        "color": "green",
+        "status": "public",
+        "osmid": 4314602412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.360078,
+          48.206868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Dr.-Karl-Renner-Ring (46, 48A, 49, N46)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.359607,
+          48.206897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Resselpark",
+        "comment": null,
+        "color": "bronze",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.368744,
+          48.199641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Otto-Wagner-Spital (48A FR Dr.-Karl-Renner-Ring)",
+        "comment": null,
+        "color": "bronze",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.280509,
+          48.206854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Währinger Straße, Volksoper U (40, 41, N41 FR Schottentor U)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.349259,
+          48.22483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Gersthof S (40, 41, N41 FR Schottentor U)",
+        "comment": "Verschwunden",
+        "color": "red",
+        "status": "missing",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.329073,
+          48.23148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Reithofferplatz im Zuge der Märzstraße",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33044,
+          48.198748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Franz-Josefs-Bahnhof S",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": 3874461602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36103,
+          48.225732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Augarten",
+        "comment": null,
+        "color": "green",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.377155,
+          48.222971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "vor dem Freihaus",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": 3892282289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.367633,
+          48.198662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Währinger Straße, Altstoffsammelstelle vor Schubertpark",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.339378,
+          48.227221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "vor der Uni Wien, Universitätsring",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.361378,
+          48.213478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Schottentor U (D, 1, 71, N25, N38, N60, N66)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.361781,
+          48.213496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Ring, Innenseite, Höhe Stadiongasse",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.360503,
+          48.208583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Westbahnhof S U (6, 18 FR Burggasse-Stadthalle U)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.338757,
+          48.197092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Karlsplatz U (Haltestelle von äußerem Schleifengleis)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.369797,
+          48.200275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Margaretengürtel U (6, 18 FR Ustrab)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34219,
+          48.188343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Parkring, Haltestelle Stubentor U",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.379838,
+          48.206732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Parkring, Außenseite, Haltestelle Stubentor U (2)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.380371,
+          48.206927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Taborstraße/Glockengasse",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.380934,
+          48.216544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Breitensee S",
+        "comment": null,
+        "color": "bronze",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.306555,
+          48.198759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Friedensbrücke",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.365867,
+          48.227707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Gunoldstraße",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.361354,
+          48.244765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Taborstraße U (5B FR Bahnhof Heiligenstadt S U)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.380543,
+          48.219331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Landstraße-Wien Mitte S U (O FR Praterstern S U)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.385292,
+          48.205503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Pilgramgasse U (12A, 14A, N60, L)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.353878,
+          48.192756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Burgring (D, 1, 2, 71, N25, N38, N60, N66)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.364373,
+          48.203765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Volkstheater (49, N49 FR Hütteldorf)",
+        "comment": null,
+        "color": "silber",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.357205,
+          48.204854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Am Tabor (2, N29, Fahrtrichtung stadtauswärts)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.377467,
+          48.21735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Wien Oper (WLB)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370346,
+          48.202108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Volkstheater (48A FR Baumgartner Höhe)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.356589,
+          48.205527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Schedifkaplatz (WLB)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.330099,
+          48.172718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Urban-Loritz-Platz (49 FR Hütteldorf)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33759,
+          48.201278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Auerspergstraße / Schmerlingplatz ",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.355767,
+          48.207248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Brigittaplatz (33, N31 FR Norden)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37054,
+          48.232384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Schubertring, Haltestelle Schwarzenbergplatz (71)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37496,
+          48.201695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Karmelitermarkt",
+        "comment": "seitlich vom Flakturm",
+        "color": "rot",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.377507,
+          48.217439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Nußdorfer Straße U (35A, 37A, N35, ASTAX N36)",
+        "comment": null,
+        "color": "bronze",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.352982,
+          48.231591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Gerhardusgasse östliches Ende, vor Johann-Böhm-Wohnhausanlage",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.368925,
+          48.232613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Schönbrunn (U4)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.319844,
+          48.185783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Schwedenplatz U (1)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37781,
+          48.211783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Auerspergstraße (46, N46)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.356264,
+          48.207104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Schottenfeldgasse (46, N46 stadteinwärts)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.342564,
+          48.207669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Richard-Wagner-Platz bei WC-Zugang",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.327801,
+          48.210125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Thaliastraße/Feßtgasse (9 FR Westbahnhof S U)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.325221,
+          48.210811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Vinzenzgasse (9, 42)",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.334126,
+          48.225098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Floridsdorf S U (30, 31)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.399647,
+          48.257356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Neubaugürtel Außenseite",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.338091,
+          48.198319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Margaretengürtel, Arbeitergasse (6, 18 FR Ustrab)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.345515,
+          48.184415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Reumannplatz",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.379231,
+          48.173695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Podersdorf Strandplatz",
+        "comment": null,
+        "color": "blue",
+        "status": null,
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.831044,
+          47.859379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Attersee",
+        "comment": null,
+        "color": "gold",
+        "status": null,
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.538112,
+          47.91403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Technisches Museum",
+        "comment": null,
+        "color": "gold",
+        "status": "private",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31862,
+          48.19073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Hernals (43 FR Schottentor)",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31505,
+          48.223525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Alser Straße Ecke Feldgasse vor kleiner Grünfläche",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.345928,
+          48.215275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Klosterneuburger Straße",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.367973,
+          48.229069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Burggasse",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33724,
+          48.20409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Rennweg (O FR Raxstraße)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.386488,
+          48.195479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Landstraße - Wien Mitte (O FR Raxstraße)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.385677,
+          48.206058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Praterstern",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.392851,
+          48.217755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Burggasse",
+        "comment": "ca. Höhe Hausnummer 76",
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34683,
+          48.204246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Alserstraße",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.341986,
+          48.217253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Wattgasse",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.321568,
+          48.221411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Gumpendorfer Straße U (57A FR Burgring)",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33745,
+          48.1903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Hietzing U (60 FR Rodaun)",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.304033,
+          48.18755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Friedrich-Engels-Platz (2, 5, 31, 33)",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.379483,
+          48.244183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Schloss Belvedere (D Fahrtrichtung Beethovengang)",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3794,
+          48.191667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Columbusplatz",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.374817,
+          48.182033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Kagran, vor Donauzentrum",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.433867,
+          48.243217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Max-Winter-Platz",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.400317,
+          48.220933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Hoßplatz (25, 26, N20 Fahrtrichtung Floridsdorf)",
+        "comment": "Seit Umbau verschollen",
+        "color": "red",
+        "status": "missing",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.408,
+          48.255017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Lassallestraße (11A, 11B Fahrtrichtung Friedrich-Engels-Platz)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40245,
+          48.223733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Quartier Belvedere (O, 18 Fahrtichtung Hauptbahnhof)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.379917,
+          48.18775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Burgring",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.363182,
+          48.20415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Innsbruck Hafelekar",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38361,
+          47.311944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Salzburg neben Universitätskirche",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04346,
+          47.799133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Lerchenfelder Gürtel, Ecke Herbststraße",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.336541,
+          48.205438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Thaliastraße U, Koppstraße (48A FR Baumgartner Höhe)",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.336968,
+          48.206214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Kurpark Baden",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.233866,
+          48.010025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Kurpark Puchberg am Schneeberg",
+        "comment": null,
+        "color": "green",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9107,
+          47.78982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Simmeringer Hauptstraße 61",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4121,
+          48.17847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Knöllgasse (1, 6 FR stadtauswärts)",
+        "comment": null,
+        "color": null,
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35828,
+          48.17777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Reumannplatz, ca. Höhe Buchengasse",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378028,
+          48.174618
+        ]
+      }
+    }
+  ]
 }

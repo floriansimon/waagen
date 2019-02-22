@@ -9,7 +9,7 @@
         "color": "green",
         "status": "public",
         "osmid": 4314602412,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Public_Scale_Vienna_Haltestelle_Dr-Karl-Renner-Ring_a_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Dr-Karl-Renner-Ring_a_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Public_Scale_Vienna_Haltestelle_Dr-Karl-Renner-Ring_b_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Dr-Karl-Renner-Ring_b_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +45,7 @@
         "color": "bronze",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Public_Scale_Vienna_Resselpark_2017.jpg/320px-Public_Scale_Vienna_Resselpark_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
         "color": "red",
         "status": "public",
         "osmid": 3892282289,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Public_Scale_Vienna_Freihaus_2017.jpg/320px-Public_Scale_Vienna_Freihaus_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +207,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Public_Scale_Vienna_Universitätsring_2017.jpg/320px-Public_Scale_Vienna_Universitätsring_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +225,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Public_Scale_Vienna_Haltestelle_Schottentor_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Schottentor_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +243,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Public_Scale_Vienna_Ring_Höhe_Stadiongasse_2017.jpg/320px-Public_Scale_Vienna_Ring_Höhe_Stadiongasse_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +279,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Public_Scale_Vienna_Haltestelle_Karlsplatz_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Karlsplatz_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -315,7 +315,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Public_Scale_Vienna_Haltestelle_Stubentor_b_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Stubentor_b_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -333,7 +333,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Public_Scale_Vienna_Haltestelle_Stubentor_a_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Stubentor_a_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +441,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Public_Scale_Vienna_Haltestelle_Landstraße_Wien_Mitte_a_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Landstraße_Wien_Mitte_a_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +477,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Public_Scale_Vienna_Haltestelle_Burgring_a_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Burgring_a_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +495,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Public_Scale_Vienna_Haltestelle_Volkstheater_a_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Volkstheater_a_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Public_Scale_Vienna_Haltestelle_Wien_Oper_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Wien_Oper_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +549,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Public_Scale_Vienna_Haltestelle_Volkstheater_b_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Volkstheater_b_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +603,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Public_Scale_Vienna_Auerspergstraße_Schmerlingplatz_2017.jpg/320px-Public_Scale_Vienna_Auerspergstraße_Schmerlingplatz_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -639,7 +639,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Public_Scale_Vienna_Haltestelle_Schwarzenbergplatz_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Schwarzenbergplatz_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +747,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Public_Scale_Vienna_Haltestelle_Auerspergstraße_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Auerspergstraße_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -761,11 +761,11 @@
       "type": "Feature",
       "properties": {
         "detail": "Haltestelle Schottenfeldgasse (46, N46 stadteinwärts)",
-        "comment": null,
+        "comment": "Ceija-Stojka-Platz",
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Photoworkshop_2018%2C_Vienna_%28P1060358%29.jpg/360px-Photoworkshop_2018%2C_Vienna_%28P1060358%29.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +981,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Public_Scale_Vienna_Alser_Straße_Ecke_Feldgasse_2017.jpg/320px-Public_Scale_Vienna_Alser_Straße_Ecke_Feldgasse_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1053,7 +1053,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Public_Scale_Vienna_Haltestelle_Landstraße-Wien_Mitte_b_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Landstraße-Wien_Mitte_b_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1320,10 +1320,10 @@
       "properties": {
         "detail": "Haltestelle Burgring",
         "comment": null,
-        "color": null,
+        "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Public_Scale_Vienna_Haltestelle_Burgring_b_2017.jpg/320px-Public_Scale_Vienna_Haltestelle_Burgring_b_2017.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1374,10 +1374,10 @@
       "properties": {
         "detail": "Lerchenfelder Gürtel, Ecke Herbststraße",
         "comment": null,
-        "color": null,
+        "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Public_Scale_Vienna_Herbststraße_Ecke_Lerchenfelder_Gürtel.jpg/360px-Public_Scale_Vienna_Herbststraße_Ecke_Lerchenfelder_Gürtel.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1395,7 +1395,7 @@
         "color": null,
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Public_Scale_Vienna_Haltestelle_Thaliastraße_Koppstraße.jpg/360px-Public_Scale_Vienna_Haltestelle_Thaliastraße_Koppstraße.jpg"
       },
       "geometry": {
         "type": "Point",

@@ -651,7 +651,7 @@
       "properties": {
         "detail": "Karmelitermarkt",
         "comment": "seitlich vom Flakturm",
-        "color": "rot",
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": null

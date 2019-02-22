@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "detail": "Haltestelle Dr.-Karl-Renner-Ring (D, 1, 2, 71, N25, N38, N60, N66)",
-        "comment": "",
+        "comment": null,
         "color": "green",
         "status": "public",
         "osmid": 4314602412,
@@ -492,7 +492,7 @@
       "properties": {
         "detail": "Haltestelle Volkstheater (49, N49 FR Hütteldorf)",
         "comment": null,
-        "color": "silber",
+        "color": "silver",
         "status": "public",
         "osmid": null,
         "imgURL": null

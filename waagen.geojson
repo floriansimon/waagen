@@ -114,7 +114,7 @@
       "properties": {
         "detail": "Reithofferplatz im Zuge der Märzstraße",
         "comment": null,
-        "color": "red",
+        "color": "gold",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -491,7 +491,7 @@
       "type": "Feature",
       "properties": {
         "detail": "Haltestelle Volkstheater (49, N49 FR Hütteldorf)",
-        "comment": null,
+        "comment": "Burggasse",
         "color": "silver",
         "status": "public",
         "osmid": null,
@@ -545,7 +545,7 @@
       "type": "Feature",
       "properties": {
         "detail": "Haltestelle Volkstheater (48A FR Baumgartner Höhe)",
-        "comment": null,
+        "comment": "Neustiftgasse",
         "color": "silver",
         "status": "public",
         "osmid": null,
@@ -779,9 +779,9 @@
       "type": "Feature",
       "properties": {
         "detail": "Richard-Wagner-Platz bei WC-Zugang",
-        "comment": null,
+        "comment": "Thaliastraße",
         "color": "red",
-        "status": "public",
+        "status": "missing",
         "osmid": null,
         "imgURL": null
       },
@@ -1014,7 +1014,7 @@
       "properties": {
         "detail": "Haltestelle Burggasse",
         "comment": null,
-        "color": "silver",
+        "color": "gold",
         "status": "public",
         "osmid": null,
         "imgURL": null

@@ -10,7 +10,7 @@ https://symptomatis.ch/mikro/waagen/
   "comment": "",
   "color": "",
   "status": "",
-  "osmid": ,
+  "osmid": 
 },
 "geometry": {
   "type": "Point",
@@ -50,7 +50,7 @@ https://symptomatis.ch/mikro/waagen/
   "comment": ,
   "color": "green",
   "status": "public",
-  "osmid": 4314602412,
+  "osmid": 4314602412
 },
 "geometry": {
   "type": "Point",

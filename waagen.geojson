@@ -779,7 +779,7 @@
       "type": "Feature",
       "properties": {
         "detail": "Richard-Wagner-Platz bei WC-Zugang",
-        "comment": "Thaliastraße",
+        "comment": "Nach Baustelle verschwunden.",
         "color": "red",
         "status": "missing",
         "osmid": null,
@@ -1211,7 +1211,7 @@
       "type": "Feature",
       "properties": {
         "detail": "Columbusplatz",
-        "comment": null,
+        "comment": "Neue Koordinaten nach Umbau",
         "color": "red",
         "status": "public",
         "osmid": null,
@@ -1220,8 +1220,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.374817,
-          48.182033
+          16.374947,
+          48.181923
         ]
       }
     },
@@ -1480,7 +1480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "detail": "Reumannplatz, ca. Höhe Buchengasse",
+        "detail": "Reumannplatz, Höhe Buchengasse",
         "comment": null,
         "color": "gold",
         "status": "public",
@@ -1492,6 +1492,186 @@
         "coordinates": [
           16.378028,
           48.174618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Reumannplatz, Höhe Rotenhofgasse",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.377657,
+          48.174043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Hütteldorfer Straße ca. 90",
+        "comment": "Ecke Kuefsteingasse",
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.314964,
+          48.199130
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Viktor-Adler-Markt",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37698,
+          48.176935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Keplerplatz, Höhe Columbusgasse",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.375143,
+          48.17831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Keplerplatz, Höhe Senefeldergasse",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.376107,
+          48.178173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Urban-Loritz-Platz (6, 18 Fahrtrichtung Ustrab)",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.337307,
+          48.201135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Erlachplatz",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.368725,
+          48.178592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Hofferplatz",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.333808,
+          48.209188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Thaliastraße/Brunnengasse",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.335842,
+          48.209035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Westbahnhof",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.338850,
+          48.196663
         ]
       }
     }

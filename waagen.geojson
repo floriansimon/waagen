@@ -1104,7 +1104,7 @@
       "properties": {
         "detail": "Haltestelle Alserstraße",
         "comment": null,
-        "color": null,
+        "color": "gold",
         "status": "public",
         "osmid": null,
         "imgURL": null

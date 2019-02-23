@@ -960,7 +960,7 @@
       "properties": {
         "detail": "Haltestelle Hernals (43 FR Schottentor)",
         "comment": null,
-        "color": null,
+        "color": "red",
         "status": "public",
         "osmid": null,
         "imgURL": null

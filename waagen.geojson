@@ -1069,7 +1069,7 @@
         "detail": "Praterstern",
         "comment": null,
         "color": "silver",
-        "status": "public",
+        "status": "missing",
         "osmid": null,
         "imgURL": null
       },
@@ -1674,6 +1674,42 @@
           48.196663
         ]
       }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Taborstraße 45",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.381334,
+                48.220201
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Grünfläche zwischen Franzensbrückenstraße, Helenengasse und Hedwiggasse",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.391474,
+                48.216536
+            ]
+        }
     }
   ]
 }

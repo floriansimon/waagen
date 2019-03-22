@@ -1710,6 +1710,42 @@
                 48.216536
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Haltestelle Margarethengürtel",
+            "comment": null,
+            "color": "silver",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.341594,
+                48.188351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Schönbrunner Straße 18",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.358863,
+                48.193771
+            ]
+        }
     }
   ]
 }

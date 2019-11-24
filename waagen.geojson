@@ -1035,7 +1035,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Public_Scale_Vienna_Haltestelle_Rennweg_2019.jpg/320px-Public_Scale_Vienna_Haltestelle_Rennweg_2019.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1744,6 +1744,24 @@
             "coordinates": [
                 16.358863,
                 48.193771
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Haltestelle Eslarngasse (77A Fahrtrichtung Lusthaus)",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Public_Scale_Vienna_Haltestelle_Eslarngasse_2019.jpg/320px-Public_Scale_Vienna_Haltestelle_Eslarngasse_2019.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.395743,
+                48.196716
             ]
         }
     }

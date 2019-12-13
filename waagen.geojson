@@ -1764,6 +1764,24 @@
                 48.196716
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Traunkirchen",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Public_Scale_Traunkirchen_Ortsplatz_2019.jpg/320px-Public_Scale_Traunkirchen_Ortsplatz_2019.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.790237,
+                47.844569
+            ]
+        }
     }
   ]
 }

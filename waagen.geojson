@@ -572,8 +572,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.330099,
-          48.172718
+          16.330588,
+          48.173273
         ]
       }
     },
@@ -850,7 +850,7 @@
     {
       "type": "Feature",
       "properties": {
-        "detail": "Neubaugürtel Außenseite",
+        "detail": "Goldschlaggasse Ecke Neubaugürtel",
         "comment": null,
         "color": "red",
         "status": "public",
@@ -860,8 +860,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.338091,
-          48.198319
+          16.337672,
+          48.199437
         ]
       }
     },
@@ -1300,7 +1300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "detail": "Haltestelle Quartier Belvedere (O, 18 Fahrtichtung Hauptbahnhof)",
+        "detail": "Haltestelle Quartier Belvedere (O, 18 Fahrtrichtung Hauptbahnhof)",
         "comment": null,
         "color": "red",
         "status": "public",
@@ -1310,8 +1310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.379917,
-          48.18775
+          16.379900,
+          48.187795
         ]
       }
     },
@@ -1768,7 +1768,7 @@
     {
         "type": "Feature",
         "properties": {
-            "detail": "Traunkirchen",
+            "detail": "Traunkirchen Ortsplatz",
             "comment": null,
             "color": "red",
             "status": "public",
@@ -1780,6 +1780,78 @@
             "coordinates": [
                 13.790237,
                 47.844569
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Haltestelle Bahnhof Meidling",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.331093,
+                48.1748167
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Haltestelle Wienerbergbrücke",
+            "comment": null,
+            "color": "silver",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.327673,
+                48.172125
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Haltestelle Quartier Belvedere (D Fahrtrichtung Nußdorf)",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.381368,
+                48.1878683
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Felberstraße Ecke Schweglerstraße",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.329883,
+                48.195849
             ]
         }
     }

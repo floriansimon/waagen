@@ -133,7 +133,7 @@
         "detail": "Haltestelle Franz-Josefs-Bahnhof S",
         "comment": null,
         "color": "silver",
-        "status": "public",
+        "status": "missing",
         "osmid": 3874461602,
         "imgURL": null
       },
@@ -1854,6 +1854,97 @@
                 48.195849
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Prater Hauptbahnhof",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": 11020658388,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.3966264,
+                48.2154379
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Hütteldorfer Straße, Lützowgasse",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": 13479029748,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.2947164,
+                48.1971718
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Franziskanerkirche",
+            "comment": null,
+            "color": "bronze",
+            "status": "public",
+            "osmid": 13427156391,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15.6232050,
+                48.2059266
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Stift St. Florian",
+            "comment": null,
+            "color": "gold",
+            "status": "public",
+            "osmid": 13479018129,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14.3766273,
+                48.2062106
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Lermoos",
+            "comment": null,
+            "color": "silver",
+            "status": "public",
+            "osmid": 13479001443,
+            "imgURL": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10.8838086,
+                47.4009853
+            ]
+        }
     }
+
   ]
 }

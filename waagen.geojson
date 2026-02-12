@@ -1310,7 +1310,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.379900,
+          16.3799,
           48.187795
         ]
       }
@@ -1527,7 +1527,7 @@
         "type": "Point",
         "coordinates": [
           16.314964,
-          48.199130
+          48.19913
         ]
       }
     },
@@ -1670,281 +1670,334 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.338850,
+          16.33885,
           48.196663
         ]
       }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Taborstraße 45",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.381334,
-                48.220201
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Taborstraße 45",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.381334,
+          48.220201
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Grünfläche zwischen Franzensbrückenstraße, Helenengasse und Hedwiggasse",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.391474,
-                48.216536
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Grünfläche zwischen Franzensbrückenstraße, Helenengasse und Hedwiggasse",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.391474,
+          48.216536
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Haltestelle Margaretengürtel",
-            "comment": null,
-            "color": "silver",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.341594,
-                48.188351
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Margaretengürtel",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.341594,
+          48.188351
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Schönbrunner Straße 18",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.358863,
-                48.193771
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Schönbrunner Straße 18",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.358863,
+          48.193771
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Haltestelle Eslarngasse (77A Fahrtrichtung Lusthaus)",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Public_Scale_Vienna_Haltestelle_Eslarngasse_2019.jpg/320px-Public_Scale_Vienna_Haltestelle_Eslarngasse_2019.jpg"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.395743,
-                48.196716
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Eslarngasse (77A Fahrtrichtung Lusthaus)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Public_Scale_Vienna_Haltestelle_Eslarngasse_2019.jpg/320px-Public_Scale_Vienna_Haltestelle_Eslarngasse_2019.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.395743,
+          48.196716
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Traunkirchen Ortsplatz",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Public_Scale_Traunkirchen_Ortsplatz_2019.jpg/320px-Public_Scale_Traunkirchen_Ortsplatz_2019.jpg"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                13.790237,
-                47.844569
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Traunkirchen Ortsplatz",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Public_Scale_Traunkirchen_Ortsplatz_2019.jpg/320px-Public_Scale_Traunkirchen_Ortsplatz_2019.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.790237,
+          47.844569
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Haltestelle Bahnhof Meidling",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.331093,
-                48.1748167
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Bahnhof Meidling",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.331093,
+          48.1748167
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Haltestelle Wienerbergbrücke",
-            "comment": null,
-            "color": "silver",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.327673,
-                48.172125
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Wienerbergbrücke",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.327673,
+          48.172125
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Haltestelle Quartier Belvedere (D Fahrtrichtung Nußdorf)",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.381368,
-                48.1878683
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Haltestelle Quartier Belvedere (D Fahrtrichtung Nußdorf)",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.381368,
+          48.1878683
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Felberstraße Ecke Schweglerstraße",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.329883,
-                48.195849
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Felberstraße Ecke Schweglerstraße",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.329883,
+          48.195849
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Prater Hauptbahnhof",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": 11020658388,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.3966264,
-                48.2154379
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Prater Hauptbahnhof",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": 11020658388,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3966264,
+          48.2154379
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Hütteldorfer Straße, Lützowgasse",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": 13479029748,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.2947164,
-                48.1971718
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Hütteldorfer Straße, Lützowgasse",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": 13479029748,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2947164,
+          48.1971718
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Franziskanerkirche",
-            "comment": null,
-            "color": "bronze",
-            "status": "public",
-            "osmid": 13427156391,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                15.6232050,
-                48.2059266
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Franziskanerkirche",
+        "comment": null,
+        "color": "bronze",
+        "status": "public",
+        "osmid": 13427156391,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.623205,
+          48.2059266
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Stift St. Florian",
-            "comment": null,
-            "color": "gold",
-            "status": "public",
-            "osmid": 13479018129,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.3766273,
-                48.2062106
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Stift St. Florian",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": 13479018129,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3766273,
+          48.2062106
+        ]
+      }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Lermoos",
-            "comment": null,
-            "color": "silver",
-            "status": "public",
-            "osmid": 13479001443,
-            "imgURL": null
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                10.8838086,
-                47.4009853
-            ]
-        }
+      "type": "Feature",
+      "properties": {
+        "detail": "Lermoos",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": 13479001443,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8838086,
+          47.4009853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Währinger Gürtel, Nußdorfer Straße, Betriebsbahnhof Gürtel",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": 13547310270,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3519075,
+          48.2314496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Attersee Landungsplatz",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.538538,
+          47.91451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "detail": "Baden Römertherme",
+        "comment": null,
+        "color": "gold",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.229647099971775,
+          48.007735844300015
+        ]
+      }
     }
-
   ]
 }

@@ -44,7 +44,7 @@
         "comment": null,
         "color": "bronze",
         "status": "public",
-        "osmid": null,
+        "osmid": 12309474903,
         "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Public_Scale_Vienna_Resselpark_2017.jpg/320px-Public_Scale_Vienna_Resselpark_2017.jpg"
       },
       "geometry": {
@@ -458,7 +458,7 @@
         "comment": null,
         "color": "red",
         "status": "public",
-        "osmid": null,
+        "osmid": 13371423943,
         "imgURL": null
       },
       "geometry": {
@@ -1610,7 +1610,7 @@
         "comment": null,
         "color": "silver",
         "status": "public",
-        "osmid": null,
+        "osmid": 933691865,
         "imgURL": null
       },
       "geometry": {

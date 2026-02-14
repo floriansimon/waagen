@@ -672,7 +672,7 @@
       "properties": {
         "detail": "Haltestelle Nußdorfer Straße U (35A, 37A, N35, ASTAX N36)",
         "comment": null,
-        "color": "bronze",
+        "color": "gold",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -680,8 +680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.352982,
-          48.231591
+          16.353034,
+          48.231496
         ]
       }
     },

@@ -546,7 +546,8 @@
       "properties": {
         "detail": "Haltestelle Volkstheater (48A FR Baumgartner Höhe)",
         "comment": "Neustiftgasse",
-        "color": "silver",
+        "color": "gold",
+        "was:color": "silver",
         "status": "public",
         "osmid": null,
         "imgURL": "File:Public_Scale_Vienna_Haltestelle_Volkstheater_b_2017.jpg"

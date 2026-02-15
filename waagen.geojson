@@ -907,7 +907,8 @@
       "properties": {
         "detail": "Podersdorf Strandplatz",
         "comment": null,
-        "color": "blue",
+        "color": "red",
+        "was:color": "blue",
         "status": null,
         "osmid": null,
         "imgURL": null

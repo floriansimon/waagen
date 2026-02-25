@@ -2003,42 +2003,42 @@
           48.007735844300015
         ]
       }
-    },        
+    },
     {
       "type": "Feature",
       "properties": {
-          "detail": "Millstadt",
-          "comment": null,
-          "color": "silver",
-          "status": "public",
-          "osmid": null,
-          "imgURL": null,
+        "detail": "Millstadt",
+        "comment": null,
+        "color": "silver",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
       },
       "geometry": {
-          "type": "Point",
-          "coordinates": [
-              13.570047318935382,
-              46.80355403675548
-          ]
+        "type": "Point",
+        "coordinates": [
+          13.570047318935382,
+          46.80355403675548
+        ]
       }
     },
     {
-        "type": "Feature",
-        "properties": {
-            "detail": "Rauscherstraße",
-            "comment": null,
-            "color": "red",
-            "status": "public",
-            "osmid": null,
-            "imgURL": null,
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                16.375273168086995,
-                48.23085918210046
-            ]
-        }
-    },
+      "type": "Feature",
+      "properties": {
+        "detail": "Rauscherstraße",
+        "comment": null,
+        "color": "red",
+        "status": "public",
+        "osmid": null,
+        "imgURL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.375273168086995,
+          48.23085918210046
+        ]
+      }
+    }
   ]
 }

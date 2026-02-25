@@ -59,8 +59,9 @@
       "type": "Feature",
       "properties": {
         "detail": "Haltestelle Otto-Wagner-Spital (48A FR Dr.-Karl-Renner-Ring)",
-        "comment": null,
-        "color": "bronze",
+        "comment": "neuerdings rot",
+        "color": "red",
+        "was:color": "bronze",
         "status": "public",
         "osmid": null,
         "imgURL": null
@@ -94,18 +95,18 @@
     {
       "type": "Feature",
       "properties": {
-        "detail": "Haltestelle Gersthof S (40, 41, N41 FR Schottentor U)",
-        "comment": "Verschwunden",
+        "detail": "Haltestelle Gersthof S",
+        "comment": "hierher übersiedelt",
         "color": "red",
-        "status": "missing",
+        "status": "public",
         "osmid": null,
         "imgURL": null
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.329073,
-          48.23148
+          16.328792273998264,
+          48.23088896046195
         ]
       }
     },
@@ -419,8 +420,9 @@
       "type": "Feature",
       "properties": {
         "detail": "Haltestelle Taborstraße U (5B FR Bahnhof Heiligenstadt S U)",
-        "comment": null,
-        "color": "silver",
+        "comment": "neuerdings rot",
+        "color": "red",
+        "was:color": "silver",
         "status": "public",
         "osmid": null,
         "imgURL": "File:Public_Scale_Vienna_Haltestelle_Taborstraße_2019.jpg"
@@ -909,7 +911,7 @@
         "comment": null,
         "color": "red",
         "was:color": "blue",
-        "status": null,
+        "status": "public",
         "osmid": null,
         "imgURL": null
       },
@@ -1627,8 +1629,9 @@
       "type": "Feature",
       "properties": {
         "detail": "Hofferplatz",
-        "comment": null,
-        "color": "silver",
+        "comment": "neuerdings rot",
+        "color": "red",
+        "was:color": "silver",
         "status": "public",
         "osmid": null,
         "imgURL": "File:Public_Scale_Vienna_Hofferplatz_2019.jpg"
@@ -2000,6 +2003,42 @@
           48.007735844300015
         ]
       }
-    }
+    },        
+    {
+      "type": "Feature",
+      "properties": {
+          "detail": "Millstadt",
+          "comment": null,
+          "color": "silver",
+          "status": "public",
+          "osmid": null,
+          "imgURL": null,
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [
+              13.570047318935382,
+              46.80355403675548
+          ]
+      }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "detail": "Rauscherstraße",
+            "comment": null,
+            "color": "red",
+            "status": "public",
+            "osmid": null,
+            "imgURL": null,
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.375273168086995,
+                48.23085918210046
+            ]
+        }
+    },
   ]
 }

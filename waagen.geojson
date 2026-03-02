@@ -388,7 +388,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Friedensbr%C3%BCcke_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -406,7 +406,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Gunoldstra%C3%9Fe_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -624,7 +624,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Brigittaplatz_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -678,7 +678,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Nu%C3%9Fdorfer_Stra%C3%9Fe_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -692,11 +692,11 @@
       "type": "Feature",
       "properties": {
         "detail": "Gerhardusgasse östliches Ende, vor Johann-Böhm-Wohnhausanlage",
-        "comment": null,
+        "comment": "Hannovermarkt",
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Hannovermarkt_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -967,7 +967,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Hernals_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1003,7 +1003,7 @@
         "color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Klosterneuburger_Stra%C3%9Fe_-_Wallensteinstra%C3%9Fe_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1111,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Alser_Stra%C3%9Fe_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1129,7 +1129,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Wattgasse_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1237,7 +1237,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Kagran_2023.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1958,7 +1958,7 @@
         "color": "red",
         "status": "public",
         "osmid": 13547310270,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Nu%C3%9Fdorfer_Stra%C3%9Fe,_W%C3%A4hringer_G%C3%BCrtel_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2025,12 +2025,12 @@
     {
       "type": "Feature",
       "properties": {
-        "detail": "Rauscherstraße",
+        "detail": "Haltestelle Rauscherstraße",
         "comment": null,
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Halstestelle_Rauscherstra%C3%9Fe_2026.jpg"
       },
       "geometry": {
         "type": "Point",

@@ -151,10 +151,11 @@
       "properties": {
         "detail": "Augarten",
         "comment": null,
-        "color": "green",
+        "color:": "gold",
+        "was:color": "green",
         "status": "public",
         "osmid": null,
-        "imgURL": "File:Public_Scale_Vienna_Augarten_2019.jpg"
+        "imgURL": "File:Public_Scale_Vienna_Augarten_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -425,7 +426,7 @@
         "was:color": "silver",
         "status": "public",
         "osmid": null,
-        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Taborstraße_2019.jpg"
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Taborstraße_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -515,7 +516,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Am_Tabor_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -660,7 +661,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": "File:Public_Scale_Vienna_Karmelitermarkt_2019.jpg"
+        "imgURL": "File:Public_Scale_Vienna_Karmelitermarkt_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +733,7 @@
         "color": "gold",
         "status": "public",
         "osmid": null,
-        "imgURL": null
+        "imgURL": "File:Public_Scale_Vienna_Haltestelle_Schwedenplatz_2026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1688,7 +1689,7 @@
         "color": "red",
         "status": "public",
         "osmid": null,
-        "imgURL": "File:Public_Scale_Vienna_Taborstraße_45_2019.jpg"
+        "imgURL": "File:Public_Scale_Vienna_Taborstraße_45_2026.jpg"
       },
       "geometry": {
         "type": "Point",

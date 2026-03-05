@@ -151,7 +151,7 @@
       "properties": {
         "detail": "Augarten",
         "comment": null,
-        "color:": "gold",
+        "color": "gold",
         "was:color": "green",
         "status": "public",
         "osmid": null,
